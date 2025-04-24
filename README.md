@@ -7,7 +7,7 @@
 ## 📱 Download App
 
 👉 Latest Android APK:  
-[📦 Download Memorify v1.0.0 (APK)](https://github.com/xhe2007/memorify/releases/download/v1.0.0/Memorify-v1.0.0-release.apk)
+[📦 Download Memorify v1.0.0 (APK)](https://github.com/xhe2007/Memorify/releases/download/v1.0-beta/Memorify-v1.0-release.apk)
 
 ---
 
