@@ -1,16 +1,42 @@
-# frontend
+# Memorify 💜
 
-A new Flutter project.
+🕊️ **Memorify** is an emotional memory companion app that helps users preserve meaningful moments with departed loved ones. It combines memory archiving with AI-driven conversations and personalized avatars to offer a gentle and healing experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Download App
 
-A few resources to get you started if this is your first Flutter project:
+👉 Latest Android APK:  
+[📦 Download Memorify v1.0.0 (APK)](https://github.com/xhe2007/memorify/releases/download/v1.0.0/Memorify-v1.0.0-release.apk)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🧠 Create memory cards with name, text, image, and location
+- 🧑‍🤖 Chat with your memories using AI-generated conversations
+- 🖼️ Upload or generate personalized avatars
+- 🌍 Multi-language support (English, Simplified Chinese, etc.)
+- 🔐 Local UUID-based identity isolation (no registration required)
+- 📥 Data stored locally as JSON, supporting offline use
+
+---
+
+## 💻 Tech Stack
+
+| Frontend (Flutter)     | Backend (Node.js)         |
+|------------------------|---------------------------|
+| Flutter 3.x (Android/iOS) | Node.js + Express |
+| Provider state management | Multer for image upload |
+| Local JSON file storage | UUID-based user data isolation |
+| Multilingual interface  | Optional: OpenAI / Replicate API |
+
+---
+
+## 🚀 Getting Started (for Developers)
+
+### 🖥 Flutter Frontend
+
+```bash
+flutter pub get
+flutter run
